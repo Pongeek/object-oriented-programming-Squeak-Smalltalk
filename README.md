@@ -1,4 +1,4 @@
-# Billiard Game in Squeak Smalltalk
+#Maman 15 -  Billiard Game in Squeak Smalltalk
 Max Mullokandov - 205647555
 Explanation for Assignment 15
 How to Play Billiard Game:
